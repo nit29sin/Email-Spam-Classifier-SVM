@@ -1,1 +1,1 @@
-# Email Spam Classifier using SVM
+# Email Spam Classifier using Support Vector Machines
